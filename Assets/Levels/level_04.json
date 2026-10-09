@@ -1,0 +1,180 @@
+{
+  "Width": 15,
+  "Height": 15,
+  "StartX": 2,
+  "StartY": 6,
+  "StartDirection": "Right",
+  "SnakeLength": 3,
+  "FoodGoal": 15,
+  "Items": [
+    {
+      "Type": "Wall",
+      "X": 0,
+      "Y": 0
+    },
+    {
+      "Type": "Wall",
+      "X": 14,
+      "Y": 0
+    },
+    {
+      "Type": "Wall",
+      "X": 1,
+      "Y": 1
+    },
+    {
+      "Type": "Wall",
+      "X": 14,
+      "Y": 1
+    },
+    {
+      "Type": "Wall",
+      "X": 2,
+      "Y": 2
+    },
+    {
+      "Type": "Wall",
+      "X": 11,
+      "Y": 2
+    },
+    {
+      "Type": "Wall",
+      "X": 12,
+      "Y": 2
+    },
+    {
+      "Type": "Wall",
+      "X": 13,
+      "Y": 2
+    },
+    {
+      "Type": "Wall",
+      "X": 14,
+      "Y": 2
+    },
+    {
+      "Type": "Wall",
+      "X": 11,
+      "Y": 3
+    },
+    {
+      "Type": "Wall",
+      "X": 7,
+      "Y": 4
+    },
+    {
+      "Type": "Wall",
+      "X": 8,
+      "Y": 4
+    },
+    {
+      "Type": "Wall",
+      "X": 9,
+      "Y": 4
+    },
+    {
+      "Type": "Wall",
+      "X": 10,
+      "Y": 4
+    },
+    {
+      "Type": "Wall",
+      "X": 11,
+      "Y": 4
+    },
+    {
+      "Type": "Tunnel",
+      "X": 4,
+      "Y": 7
+    },
+    {
+      "Type": "Tunnel",
+      "X": 8,
+      "Y": 7
+    },
+    {
+      "Type": "Tunnel",
+      "X": 13,
+      "Y": 7
+    },
+    {
+      "Type": "Wall",
+      "X": 7,
+      "Y": 10
+    },
+    {
+      "Type": "Wall",
+      "X": 8,
+      "Y": 10
+    },
+    {
+      "Type": "Wall",
+      "X": 9,
+      "Y": 10
+    },
+    {
+      "Type": "Wall",
+      "X": 10,
+      "Y": 10
+    },
+    {
+      "Type": "Wall",
+      "X": 11,
+      "Y": 10
+    },
+    {
+      "Type": "Wall",
+      "X": 11,
+      "Y": 11
+    },
+    {
+      "Type": "Wall",
+      "X": 2,
+      "Y": 12
+    },
+    {
+      "Type": "Wall",
+      "X": 11,
+      "Y": 12
+    },
+    {
+      "Type": "Wall",
+      "X": 12,
+      "Y": 12
+    },
+    {
+      "Type": "Wall",
+      "X": 13,
+      "Y": 12
+    },
+    {
+      "Type": "Wall",
+      "X": 14,
+      "Y": 12
+    },
+    {
+      "Type": "Wall",
+      "X": 1,
+      "Y": 13
+    },
+    {
+      "Type": "Wall",
+      "X": 14,
+      "Y": 13
+    },
+    {
+      "Type": "Wall",
+      "X": 0,
+      "Y": 14
+    },
+    {
+      "Type": "Wall",
+      "X": 14,
+      "Y": 14
+    }
+  ],
+  "GoldenApple": {
+    "SpawnAfterSeconds": 2.0,
+    "StaysForSeconds": 10.0
+  }
+}

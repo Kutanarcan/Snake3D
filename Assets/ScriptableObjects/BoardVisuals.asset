@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e91b40c2fa8d374b95d0e18ac37f542, type: 3}
+  m_Name: BoardVisuals
+  m_EditorClassIdentifier: Game.Runtime::Game.Runtime.BoardVisuals
+  _environmentPrefab: {fileID: 1845474183658664482, guid: 8da738b1c80a20348905ed20b51cc6e8, type: 3}
+  _organicPrefab: {fileID: 4446593164184374975, guid: 3b1a09c08fd0c3e46ac870faa346d95e, type: 3}
+  _boardDark: {fileID: -2874688092197663791, guid: 1de2f7c38ff6e4da997629700aba5201, type: 3}
+  _boardLight: {fileID: -53087512889334300, guid: fcc1da9935b7e452c866376403fcc250, type: 3}
+  _boardHeight: 0
+  _ground:
+  - _type: 1
+    _mesh: {fileID: 8733429697405204941, guid: 37291db68d65a41f796c5c98690b3cf6, type: 3}
+    _height: 1
+  - _type: 2
+    _mesh: {fileID: -5028364872960416125, guid: ba7ed247ab57845969bc74296278ae73, type: 3}
+    _height: 1
+  _snakeHead: {fileID: 2104234446827953953, guid: 974740f31e6db473c94ab44a8aee5850, type: 3}
+  _snakeBody: {fileID: 7191444158431174712, guid: 69b358f96b65f4a3d89e8bd195ea94b2, type: 3}
+  _snakeTail: {fileID: 5392491629245140701, guid: 83daa3bf6f3a94298a305aa22937fc3b, type: 3}
+  _food: {fileID: -472147775963580301, guid: e2cbefff129f24bfdb2b87ae383d2d8a, type: 3}
+  _goldenApple: {fileID: -472147775963580301, guid: e2cbefff129f24bfdb2b87ae383d2d8a, type: 3}
+  _goldenAppleScale: 2
+  _goldenAppleHeight: 1.25
+  _pieceHeight: 1
+  _stepEase: 0.5
+  _appleAppear: 0.35

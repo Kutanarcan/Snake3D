@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ad8277ff2c6a55449c2a05e9c040003, type: 3}
+  m_Name: EndingSettings
+  m_EditorClassIdentifier: Game.Runtime::Game.Runtime.EndingSettings
+  _win:
+    _winSound: 10
+    _popupDelay: 0.3
+  _deaths:
+  - _id: 1
+    _hitSound: 7
+    _loseDelay: 0.35
+    _loseSound: 11
+    _shakeScreen: 1
+  - _id: 3
+    _hitSound: 13
+    _loseDelay: 0.35
+    _loseSound: 11
+    _shakeScreen: 1
+  - _id: 2
+    _hitSound: 13
+    _loseDelay: 0.55
+    _loseSound: 11
+    _shakeScreen: 1

@@ -1,0 +1,9 @@
+{
+  "Width": 5,
+  "Height": 5,
+  "StartX": 2,
+  "StartY": 2,
+  "StartDirection": "Right",
+  "SnakeLength": 3,
+  "FoodGoal": 3
+}

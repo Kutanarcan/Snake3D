@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas_FX
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: db6d81242a44e493982d124ed52bf47a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 9bd96b44d09ea48978a00549b562e70c: 21300000
+    - f52a04d7cf315499897aae5e7e13f8a7: 1474889514224187430
+    - f52a04d7cf315499897aae5e7e13f8a7: -6931963166127048757
+    - f52a04d7cf315499897aae5e7e13f8a7: -3779666555685338719
+    - f52a04d7cf315499897aae5e7e13f8a7: 9087986505821059688
+    - f52a04d7cf315499897aae5e7e13f8a7: -893585004810481699
+    - f52a04d7cf315499897aae5e7e13f8a7: 3154633799939672179
+    - e53f4af8ad3c4e14955e75db69d76d04: 21300000
+    - 9ff81bdc2059d4e6ea602cb8cc26dd81: 21300000
+    - f63e0e1e20cf4d3fb2a4e9b0fc77a1b2: 21300000
+    - 7909ff3f0714e41dfbeceb750e547525: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9bd96b44d09ea48978a00549b562e70c, type: 3}
+  - {fileID: 1474889514224187430, guid: f52a04d7cf315499897aae5e7e13f8a7, type: 3}
+  - {fileID: -6931963166127048757, guid: f52a04d7cf315499897aae5e7e13f8a7, type: 3}
+  - {fileID: -3779666555685338719, guid: f52a04d7cf315499897aae5e7e13f8a7, type: 3}
+  - {fileID: 9087986505821059688, guid: f52a04d7cf315499897aae5e7e13f8a7, type: 3}
+  - {fileID: -893585004810481699, guid: f52a04d7cf315499897aae5e7e13f8a7, type: 3}
+  - {fileID: 3154633799939672179, guid: f52a04d7cf315499897aae5e7e13f8a7, type: 3}
+  - {fileID: 21300000, guid: e53f4af8ad3c4e14955e75db69d76d04, type: 3}
+  - {fileID: 21300000, guid: 9ff81bdc2059d4e6ea602cb8cc26dd81, type: 3}
+  - {fileID: 21300000, guid: f63e0e1e20cf4d3fb2a4e9b0fc77a1b2, type: 3}
+  - {fileID: 21300000, guid: 7909ff3f0714e41dfbeceb750e547525, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Fx_Sparkle_4Point
+  - Fx_Confetti_Set_0
+  - Fx_Confetti_Set_1
+  - Fx_Confetti_Set_2
+  - Fx_Confetti_Set_3
+  - Fx_Confetti_Set_4
+  - Fx_Confetti_Set_5
+  - Fx_Star_5Point
+  - Fx_Impact_Smoke
+  - Fx_Ring_Soft
+  - Fx_Glow_Round
+  m_RenderDataMap: {}
+  m_Tag: SpriteAtlas_FX
+  m_IsVariant: 0

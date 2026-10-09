@@ -1,0 +1,40 @@
+{
+  "Width": 7,
+  "Height": 7,
+  "StartX": 2,
+  "StartY": 4,
+  "StartDirection": "Down",
+  "SnakeLength": 3,
+  "FoodGoal": 7,
+  "Items": [
+    {
+      "Type": "Wall",
+      "X": 0,
+      "Y": 0
+    },
+    {
+      "Type": "Wall",
+      "X": 6,
+      "Y": 0
+    },
+    {
+      "Type": "Tunnel",
+      "X": 4,
+      "Y": 3
+    },
+    {
+      "Type": "Wall",
+      "X": 0,
+      "Y": 6
+    },
+    {
+      "Type": "Wall",
+      "X": 6,
+      "Y": 6
+    }
+  ],
+  "GoldenApple": {
+    "SpawnAfterSeconds": 8.0,
+    "StaysForSeconds": 5.0
+  }
+}
