@@ -22,6 +22,7 @@ built for Android.
 
 | Section | |
 |---|---|
+| [🎬 Video](#-video) | Gameplay, portrait |
 | [📋 Features](#-features) | Each feature and where it lives |
 | [🏛 Architecture](#-architecture) | Assemblies, levels, editor, presentation, steering |
 | [🧮 Algorithms](#-algorithms) | Ring buffer, sparse set, camera fit, polling |
@@ -30,11 +31,11 @@ built for Android.
 
 ---
 
-##  Video
+## 🎬 Video
 
-
-https://github.com/user-attachments/assets/41cbbd4e-d8d2-4622-98f8-13a7baa54c6f
-
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/41cbbd4e-d8d2-4622-98f8-13a7baa54c6f" width="300" controls muted></video>
+</div>
 
 ## 📋 Features
 
