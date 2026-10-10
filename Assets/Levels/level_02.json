@@ -34,7 +34,7 @@
     }
   ],
   "GoldenApple": {
-    "SpawnAfterSeconds": 8.0,
-    "StaysForSeconds": 5.0
+    "SpawnAfterSeconds": 4.0,
+    "StaysForSeconds": 10.0
   }
 }
