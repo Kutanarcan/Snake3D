@@ -58,7 +58,6 @@ built for Android.
 | Two extra items with mechanics of their own | **Tunnel** and **Golden Apple** — below |
 | Runs on Android / iOS | Android build target, 60 fps cap, URP mobile pipeline asset |
 | Unity version | 6000.3.12f1 |
-| Development history | Committed in stages — see the commit history |
 
 ### 🎁 The two items
 
