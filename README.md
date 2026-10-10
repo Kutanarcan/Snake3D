@@ -30,6 +30,12 @@ built for Android.
 
 ---
 
+##  Video
+
+
+https://github.com/user-attachments/assets/41cbbd4e-d8d2-4622-98f8-13a7baa54c6f
+
+
 ## 📋 Features
 
 | Feature | Where it lives |
